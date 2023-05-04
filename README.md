@@ -21,6 +21,7 @@ public class uslusayilar {
        
         System.out.print("KULLANICIDAN ALINAN ALT DEGER:");
         int n1=input.nextInt();
+        
         System.out.print("KULLANICIDAN ALINAN UST DEGER:");
         int n2=input.nextInt();
 
