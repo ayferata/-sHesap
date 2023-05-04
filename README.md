@@ -6,6 +6,7 @@ public class uslusayilar {
     static  int ust(int n1,int n2) {
         int sonuc = 1;
         int sonuc1=1;
+        
         if (n2!=0){
             for (int i = 1; i <= n1; i++) {
                 sonuc *= n2;
