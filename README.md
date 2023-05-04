@@ -18,7 +18,7 @@ public class uslusayilar {
     }
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
-        // kullanicidan veri alma
+       
         System.out.print("KULLANICIDAN ALINAN ALT DEGER:");
         int n1=input.nextInt();
         System.out.print("KULLANICIDAN ALINAN UST DEGER:");
